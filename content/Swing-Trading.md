@@ -14,11 +14,11 @@ Eine Downside des Swing-Trading ist dass es auf Grund von Kurssprüngen während
 ## Korrekturen
 Eine Korrektur eines Aufwärtstrends entsteht wenn der Kurs nach einem steigenden Kurz wieder um mind. 10% fällt.
 
-![[Drawing 2023-11-25 16.36.57.excalidraw|800]]
+![[Drawing 2023-11-25 16.36.57.svg|800]]
 
 ## Trendbruch und Trendwenden
 
-![[Swing-Trading 2023-11-30 18.14.37.excalidraw|800]]
+![[Swing-Trading 2023-11-30 18.14.37.svg|800]]
 
 ## Fundamentale Kriterien zur Steigerung der Trefferquote 
 - Aktuelle [[Dividendenrendite|Dividendenrendite]] größer 2% 
