@@ -5,3 +5,5 @@ date: 2024-03-16
 ---
 # Finanzen
 - [[Swing-Trading|Swing-Trading]]
+
+[[Seiten auf Github|Seiten auf Github]]
