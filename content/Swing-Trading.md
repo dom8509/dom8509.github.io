@@ -1,7 +1,7 @@
 ---
 date: 2023-11-19
 tags:
-  - note/🌿
+  - "note/🌿"
 share: "true"
 ---
 ## Was ist Swing-Trading?
